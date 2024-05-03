@@ -23,7 +23,7 @@ on:
       DEVICE_PATH:
         description: 'DEVICE_PATH'
         required: true
-        default: 'device/Tecno/KI5q'
+        default: 'device/tecno/KI5q'
       COMMON_TREE_URL:
         description: 'COMMON_TREE_URL (if no common tree, leave blank)'
         required: false
